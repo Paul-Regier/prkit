@@ -1,4 +1,9 @@
 Name: Clear Environment
-Description: Clears all variables in the global environment.
+Description: Removes all variables from the global environment.
 Binding: clear_env
+Interactive: false
+
+Name: Run All Code Above
+Description: Runs all lines of code above the cursor.
+Binding: run_all_above
 Interactive: false
