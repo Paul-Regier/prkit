@@ -1,0 +1,4 @@
+Name: Clear Environment
+Description: Clears all variables in the global environment.
+Binding: clear_env
+Interactive: false
