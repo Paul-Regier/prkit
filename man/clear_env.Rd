@@ -10,5 +10,5 @@ clear_env()
 Nothing
 }
 \description{
-Removes all variables from the global environment.
+Removes all variables from the global environment and clears console.
 }

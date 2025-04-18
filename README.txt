@@ -21,9 +21,6 @@ devtools::install()    # installs package
 
 STEP 4: Update Addins.dcf
 
-Unlink Stale .dcf cache:
-
-unlink(.libPaths()[1])'
 
 Add to addins.dcf file - inst/rstudio/addins.dcf
 
